@@ -1,7 +1,7 @@
 
 # Data Cleaning & Processing Project
 
-This is a beginner-friendly, GitHub-ready project demonstrating data cleaning and processing steps using Python (pandas, numpy, scikit-learn).
+This is a beginner-friendly, project demonstrating data cleaning and processing steps using Python (pandas, numpy, scikit-learn).
 
 ## Contents
 - `notebooks/` - Jupyter notebooks with step-by-step EDA and cleaning workflows.
